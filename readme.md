@@ -7,9 +7,9 @@ Using physical wireless objects, birds are generated and animated in realtime. E
 
 ## More Information
 
-<iframe src="https://player.vimeo.com/video/200236664" width="740" height="460" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+Video [here](https://vimeo.com/200236664)
 
-More documentation of the project is [here](http://itp.3laab.com/2016/11/30/tacto-final/)
+Documentation can be found [here](http://itp.3laab.com/2016/11/30/tacto-final/)
 
 
 ## Libraries used
