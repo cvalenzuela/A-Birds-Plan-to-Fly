@@ -5,9 +5,11 @@ A physical interface and installation that allows users to control and manipulat
 Using physical wireless objects, birds are generated and animated in realtime. Each bird is created based on a image sent via text message.
 
 
-## Development
+## More Information
 
-A full documentation of the project is [here](http://itp.3laab.com/2016/11/30/tacto-final/)
+<iframe src="https://player.vimeo.com/video/200236664" width="740" height="460" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+More documentation of the project is [here](http://itp.3laab.com/2016/11/30/tacto-final/)
 
 
 ## Libraries used
