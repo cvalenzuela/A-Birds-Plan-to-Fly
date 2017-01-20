@@ -1,0 +1,10 @@
+*.ai
+/imgs
+/node_modules
+/js/xbee-server-test/node_modules
+/bower_components
+/libraries
+/mms/node_modules
+birds.mp4
+/.mp4
+/mms/private

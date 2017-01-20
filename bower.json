@@ -1,0 +1,22 @@
+{
+  "name": "final_project",
+  "authors": [
+    "Cristobal Valenzuela <cvalenzuela@nyu.edu>"
+  ],
+  "description": "Fall 2016 final project",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tracking": "^1.1.3",
+    "p5.js": "p5js#^0.5.4"
+  }
+}
